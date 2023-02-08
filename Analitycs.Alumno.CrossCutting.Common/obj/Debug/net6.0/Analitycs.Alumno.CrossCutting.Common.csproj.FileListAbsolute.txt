@@ -1,0 +1,12 @@
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Common\bin\Debug\net6.0\Analitycs.Alumno.CrossCutting.Common.deps.json
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Common\bin\Debug\net6.0\Analitycs.Alumno.CrossCutting.Common.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Common\bin\Debug\net6.0\Analitycs.Alumno.CrossCutting.Common.pdb
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Common\obj\Debug\net6.0\Analitycs.Alumno.CrossCutting.Common.csproj.AssemblyReference.cache
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Common\obj\Debug\net6.0\Analitycs.Alumno.CrossCutting.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Common\obj\Debug\net6.0\Analitycs.Alumno.CrossCutting.Common.AssemblyInfoInputs.cache
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Common\obj\Debug\net6.0\Analitycs.Alumno.CrossCutting.Common.AssemblyInfo.cs
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Common\obj\Debug\net6.0\Analitycs.Alumno.CrossCutting.Common.csproj.CoreCompileInputs.cache
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Common\obj\Debug\net6.0\Analitycs.Alumno.CrossCutting.Common.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Common\obj\Debug\net6.0\refint\Analitycs.Alumno.CrossCutting.Common.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Common\obj\Debug\net6.0\Analitycs.Alumno.CrossCutting.Common.pdb
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Common\obj\Debug\net6.0\ref\Analitycs.Alumno.CrossCutting.Common.dll

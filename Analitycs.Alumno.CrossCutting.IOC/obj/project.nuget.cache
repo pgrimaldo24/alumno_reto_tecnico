@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "K2X3hu0Rl8mhh7MR+RpNerOCNXe8swpwfkty/vZTDR7MXP/N4GlBu8vMG+Xk3+GI375a61XtOFlpuG03LIK8IQ==",
+  "success": true,
+  "projectFilePath": "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.CrossCutting.IOC\\Analitycs.Alumno.CrossCutting.IOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

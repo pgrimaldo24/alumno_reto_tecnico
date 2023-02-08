@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Analitycs.Alumno.Application.Interfaces\Analitycs.Alumno.Application.Interfaces.csproj" />
+    <ProjectReference Include="..\Analitycs.Alumno.CrossCutting.Common\Analitycs.Alumno.CrossCutting.Common.csproj" />
+    <ProjectReference Include="..\Analitycs.Alumno.CrossCutting.DTO\Analitycs.Alumno.CrossCutting.DTO.csproj" />
+    <ProjectReference Include="..\Analitycs.Alumno.CrossCutting.IOC\Analitycs.Alumno.CrossCutting.IOC.csproj" />
+    <ProjectReference Include="..\Analitycs.Alumno.Domain.Main\Analitycs.Alumno.Domain.Main.csproj" />
+    <ProjectReference Include="..\Analitycs.Alumno.Infraestructure.Repository.Implementation\Analitycs.Alumno.Infraestructure.Repository.Implementation.csproj" />
+    <ProjectReference Include="..\Analitycs.Alumno.Infraestructure.Repository.Interfaces\Analitycs.Alumno.Infraestructure.Repository.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

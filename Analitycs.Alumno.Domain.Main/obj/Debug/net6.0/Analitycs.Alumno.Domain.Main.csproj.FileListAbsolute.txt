@@ -1,0 +1,12 @@
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Domain.Main\bin\Debug\net6.0\Analitycs.Alumno.Domain.Main.deps.json
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Domain.Main\bin\Debug\net6.0\Analitycs.Alumno.Domain.Main.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Domain.Main\bin\Debug\net6.0\Analitycs.Alumno.Domain.Main.pdb
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Domain.Main\obj\Debug\net6.0\Analitycs.Alumno.Domain.Main.csproj.AssemblyReference.cache
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Domain.Main\obj\Debug\net6.0\Analitycs.Alumno.Domain.Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Domain.Main\obj\Debug\net6.0\Analitycs.Alumno.Domain.Main.AssemblyInfoInputs.cache
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Domain.Main\obj\Debug\net6.0\Analitycs.Alumno.Domain.Main.AssemblyInfo.cs
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Domain.Main\obj\Debug\net6.0\Analitycs.Alumno.Domain.Main.csproj.CoreCompileInputs.cache
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Domain.Main\obj\Debug\net6.0\Analitycs.Alumno.Domain.Main.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Domain.Main\obj\Debug\net6.0\refint\Analitycs.Alumno.Domain.Main.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Domain.Main\obj\Debug\net6.0\Analitycs.Alumno.Domain.Main.pdb
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Domain.Main\obj\Debug\net6.0\ref\Analitycs.Alumno.Domain.Main.dll

@@ -1,0 +1,15 @@
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Infraestructure.Repository.Interfaces\bin\Debug\net6.0\Analitycs.Alumno.Infraestructure.Repository.Interfaces.deps.json
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Infraestructure.Repository.Interfaces\bin\Debug\net6.0\Analitycs.Alumno.Infraestructure.Repository.Interfaces.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Infraestructure.Repository.Interfaces\bin\Debug\net6.0\Analitycs.Alumno.Infraestructure.Repository.Interfaces.pdb
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Infraestructure.Repository.Interfaces\obj\Debug\net6.0\Analitycs.Alumno.Infraestructure.Repository.Interfaces.csproj.AssemblyReference.cache
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Infraestructure.Repository.Interfaces\obj\Debug\net6.0\Analitycs.Alumno.Infraestructure.Repository.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Infraestructure.Repository.Interfaces\obj\Debug\net6.0\Analitycs.Alumno.Infraestructure.Repository.Interfaces.AssemblyInfoInputs.cache
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Infraestructure.Repository.Interfaces\obj\Debug\net6.0\Analitycs.Alumno.Infraestructure.Repository.Interfaces.AssemblyInfo.cs
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Infraestructure.Repository.Interfaces\obj\Debug\net6.0\Analitycs.Alumno.Infraestructure.Repository.Interfaces.csproj.CoreCompileInputs.cache
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Infraestructure.Repository.Interfaces\obj\Debug\net6.0\Analitycs.Alumno.Infraestructure.Repository.Interfaces.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Infraestructure.Repository.Interfaces\obj\Debug\net6.0\refint\Analitycs.Alumno.Infraestructure.Repository.Interfaces.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Infraestructure.Repository.Interfaces\obj\Debug\net6.0\Analitycs.Alumno.Infraestructure.Repository.Interfaces.pdb
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Infraestructure.Repository.Interfaces\obj\Debug\net6.0\ref\Analitycs.Alumno.Infraestructure.Repository.Interfaces.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Infraestructure.Repository.Interfaces\bin\Debug\net6.0\Analitycs.Alumno.Domain.Main.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Infraestructure.Repository.Interfaces\bin\Debug\net6.0\Analitycs.Alumno.Domain.Main.pdb
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Infraestructure.Repository.Interfaces\obj\Debug\net6.0\Analitycs.Alumno.Infraestructure.Repository.Interfaces.csproj.CopyComplete

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Analitycs.Alumno.CrossCutting.DTO/1.0.0": {
+        "runtime": {
+          "Analitycs.Alumno.CrossCutting.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Analitycs.Alumno.CrossCutting.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

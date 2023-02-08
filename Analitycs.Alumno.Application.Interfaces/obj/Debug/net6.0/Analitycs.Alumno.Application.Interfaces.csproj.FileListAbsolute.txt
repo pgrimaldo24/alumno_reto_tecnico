@@ -1,0 +1,15 @@
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Application.Interfaces\bin\Debug\net6.0\Analitycs.Alumno.Application.Interfaces.deps.json
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Application.Interfaces\bin\Debug\net6.0\Analitycs.Alumno.Application.Interfaces.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Application.Interfaces\bin\Debug\net6.0\Analitycs.Alumno.Application.Interfaces.pdb
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Application.Interfaces\obj\Debug\net6.0\Analitycs.Alumno.Application.Interfaces.csproj.AssemblyReference.cache
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Application.Interfaces\obj\Debug\net6.0\Analitycs.Alumno.Application.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Application.Interfaces\obj\Debug\net6.0\Analitycs.Alumno.Application.Interfaces.AssemblyInfoInputs.cache
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Application.Interfaces\obj\Debug\net6.0\Analitycs.Alumno.Application.Interfaces.AssemblyInfo.cs
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Application.Interfaces\obj\Debug\net6.0\Analitycs.Alumno.Application.Interfaces.csproj.CoreCompileInputs.cache
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Application.Interfaces\obj\Debug\net6.0\Analitycs.Alumno.Application.Interfaces.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Application.Interfaces\obj\Debug\net6.0\refint\Analitycs.Alumno.Application.Interfaces.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Application.Interfaces\obj\Debug\net6.0\Analitycs.Alumno.Application.Interfaces.pdb
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Application.Interfaces\obj\Debug\net6.0\ref\Analitycs.Alumno.Application.Interfaces.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Application.Interfaces\bin\Debug\net6.0\Analitycs.Alumno.CrossCutting.DTO.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Application.Interfaces\bin\Debug\net6.0\Analitycs.Alumno.CrossCutting.DTO.pdb
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.Application.Interfaces\obj\Debug\net6.0\Analitycs.Alumno.Application.Interfaces.csproj.CopyComplete

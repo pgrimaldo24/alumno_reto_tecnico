@@ -1,0 +1,15 @@
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Extensions\bin\Debug\net6.0\Analitycs.Alumno.CrossCutting.Extensions.deps.json
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Extensions\bin\Debug\net6.0\Analitycs.Alumno.CrossCutting.Extensions.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Extensions\bin\Debug\net6.0\Analitycs.Alumno.CrossCutting.Extensions.pdb
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Extensions\bin\Debug\net6.0\Analitycs.Alumno.CrossCutting.Common.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Extensions\bin\Debug\net6.0\Analitycs.Alumno.CrossCutting.Common.pdb
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Extensions\obj\Debug\net6.0\Analitycs.Alumno.CrossCutting.Extensions.csproj.AssemblyReference.cache
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Extensions\obj\Debug\net6.0\Analitycs.Alumno.CrossCutting.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Extensions\obj\Debug\net6.0\Analitycs.Alumno.CrossCutting.Extensions.AssemblyInfoInputs.cache
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Extensions\obj\Debug\net6.0\Analitycs.Alumno.CrossCutting.Extensions.AssemblyInfo.cs
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Extensions\obj\Debug\net6.0\Analitycs.Alumno.CrossCutting.Extensions.csproj.CoreCompileInputs.cache
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Extensions\obj\Debug\net6.0\Analitycs.Alumno.CrossCutting.Extensions.csproj.CopyComplete
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Extensions\obj\Debug\net6.0\Analitycs.Alumno.CrossCutting.Extensions.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Extensions\obj\Debug\net6.0\refint\Analitycs.Alumno.CrossCutting.Extensions.dll
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Extensions\obj\Debug\net6.0\Analitycs.Alumno.CrossCutting.Extensions.pdb
+D:\repository\Nueva carpeta\Analitycs.Alumno.Api\Analitycs.Alumno.CrossCutting.Extensions\obj\Debug\net6.0\ref\Analitycs.Alumno.CrossCutting.Extensions.dll

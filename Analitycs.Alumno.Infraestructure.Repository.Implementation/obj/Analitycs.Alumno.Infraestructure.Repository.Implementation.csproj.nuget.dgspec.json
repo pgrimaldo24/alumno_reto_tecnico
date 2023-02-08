@@ -1,0 +1,290 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.Infraestructure.Repository.Implementation\\Analitycs.Alumno.Infraestructure.Repository.Implementation.csproj": {}
+  },
+  "projects": {
+    "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.CrossCutting.Common\\Analitycs.Alumno.CrossCutting.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.CrossCutting.Common\\Analitycs.Alumno.CrossCutting.Common.csproj",
+        "projectName": "Analitycs.Alumno.CrossCutting.Common",
+        "projectPath": "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.CrossCutting.Common\\Analitycs.Alumno.CrossCutting.Common.csproj",
+        "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+        "outputPath": "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.CrossCutting.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.Domain.Main\\Analitycs.Alumno.Domain.Main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.Domain.Main\\Analitycs.Alumno.Domain.Main.csproj",
+        "projectName": "Analitycs.Alumno.Domain.Main",
+        "projectPath": "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.Domain.Main\\Analitycs.Alumno.Domain.Main.csproj",
+        "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+        "outputPath": "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.Domain.Main\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.Infraestructure.Repository.Implementation\\Analitycs.Alumno.Infraestructure.Repository.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.Infraestructure.Repository.Implementation\\Analitycs.Alumno.Infraestructure.Repository.Implementation.csproj",
+        "projectName": "Analitycs.Alumno.Infraestructure.Repository.Implementation",
+        "projectPath": "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.Infraestructure.Repository.Implementation\\Analitycs.Alumno.Infraestructure.Repository.Implementation.csproj",
+        "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+        "outputPath": "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.Infraestructure.Repository.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.CrossCutting.Common\\Analitycs.Alumno.CrossCutting.Common.csproj": {
+                "projectPath": "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.CrossCutting.Common\\Analitycs.Alumno.CrossCutting.Common.csproj"
+              },
+              "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.Domain.Main\\Analitycs.Alumno.Domain.Main.csproj": {
+                "projectPath": "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.Domain.Main\\Analitycs.Alumno.Domain.Main.csproj"
+              },
+              "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.Infraestructure.Repository.Interfaces\\Analitycs.Alumno.Infraestructure.Repository.Interfaces.csproj": {
+                "projectPath": "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.Infraestructure.Repository.Interfaces\\Analitycs.Alumno.Infraestructure.Repository.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.Infraestructure.Repository.Interfaces\\Analitycs.Alumno.Infraestructure.Repository.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.Infraestructure.Repository.Interfaces\\Analitycs.Alumno.Infraestructure.Repository.Interfaces.csproj",
+        "projectName": "Analitycs.Alumno.Infraestructure.Repository.Interfaces",
+        "projectPath": "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.Infraestructure.Repository.Interfaces\\Analitycs.Alumno.Infraestructure.Repository.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+        "outputPath": "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.Infraestructure.Repository.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.Domain.Main\\Analitycs.Alumno.Domain.Main.csproj": {
+                "projectPath": "D:\\repository\\Nueva carpeta\\Analitycs.Alumno.Api\\Analitycs.Alumno.Domain.Main\\Analitycs.Alumno.Domain.Main.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
